@@ -1,5 +1,32 @@
 # Completed-Modules
 A list of modules completed modules. 
+- Engineering Mathematics I - V 
+- Probability and Statistics 
+- Introduction to Professional Engineering
+- Experimental Methods
+- Engineering Materials and Their Applications
+- Computer Engineering I & II
+- Physics
+- Chemistry
+- Electrical Engineering
+- Electronics
+- Mechanics
+- Engineering Design I - IV
+- Solids and Structures
+- Engineering and the Environment
+- Thermo-Fluids
+- Computational Engineering
+- Microprocessor Systems I & II
+- Data Structures
+- Signals and Systems 
+- Computer Networks
+- Digtial Circuits
+- Digital Circuit Design
+- Digital System Design 
+- Telecommunications 
+- Emergence of Technologies
+- Hacking Your Health
+
 
 # 1st Year 
 ## Semester One
