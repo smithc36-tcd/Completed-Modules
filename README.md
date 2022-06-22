@@ -1,5 +1,5 @@
 # Completed-Modules
-A list of modules completed modules. 
+A list of modules completed modules, along with the module description of each. 
 - Engineering Mathematics I - V 
 - Probability and Statistics 
 - Introduction to Professional Engineering
