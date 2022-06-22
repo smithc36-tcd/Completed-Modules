@@ -1,30 +1,34 @@
 # Completed-Modules
 A list of modules completed modules, along with the module description of each. 
-- Engineering Mathematics I - V 
-- Probability and Statistics 
-- Introduction to Professional Engineering
-- Experimental Methods
-- Engineering Materials and Their Applications
-- Computer Engineering I & II
-- Physics
-- Chemistry
-- Electrical Engineering
-- Electronics
-- Mechanics
+
+### First Class Honours in: 
+- Mathematics I - V 
+- Probability and Statistics
+- Emergence of Technologies 
+- Physics 
+- Professional Engineering 
+- Electrical Engineering 
+- Computer Engineering I - II 
 - Engineering Design I - IV
-- Solids and Structures
-- Engineering and the Environment
-- Thermo-Fluids
-- Computational Engineering
+- Mechanics
+- Computational Engineering 
+- Electronics
+- Engineering and the Environment 
 - Microprocessor Systems I & II
 - Data Structures
 - Signals and Systems 
+- Telecommunications
+- Digital System Design 
+- Digital Circuit Design
+#### Other Modules:
+- Introduction to Professional Engineering
+- Experimental Methods
+- Engineering Materials and Their Applications
+- Chemistry
+- Solids and Structures
+- Thermo-Fluids
 - Computer Networks
 - Digtial Circuits
-- Digital Circuit Design
-- Digital System Design 
-- Telecommunications 
-- Emergence of Technologies
 - Hacking Your Health
 
 
