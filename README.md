@@ -20,6 +20,13 @@ A list of modules completed modules, along with the module description of each.
 - Telecommunications
 - Digital System Design 
 - Digital Circuit Design
+- Introduction to computer graphics and visualisation
+- Machine Learning
+- Methods in hugh performance computing
+- Foundation of cryptography
+- Deeplearning and its applications
+- Computer Vision
+- Digital Signal Processing
 #### Other Modules:
 - Introduction to Professional Engineering
 - Experimental Methods
