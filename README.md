@@ -1,3 +1,7 @@
+# Currently taking 
+- Algorithms for Quantum Computing
+- Cyber-Physical Systems
+
 # Completed-Modules
 A list of modules completed modules, along with the module description of each. 
 
@@ -27,6 +31,7 @@ A list of modules completed modules, along with the module description of each.
 - Deeplearning and its applications
 - Computer Vision
 - Digital Signal Processing
+
 #### Other Modules:
 - Introduction to Professional Engineering
 - Experimental Methods
@@ -279,3 +284,111 @@ A list of modules completed modules, along with the module description of each.
 - Probability models, statistical design, inductive inference principles.
 - Nonparametric case, parametric estimation, hypothesis tests.
 - Confronting uncertainty in engineering systems.
+
+# 4th Year
+## Semester One
+### Deep Learning and its Applications
+- **Overview:** Introduction to Machine Learning with a focus on Deep Learning, inspired by the structure of cerebral cortex neurons.
+- **Learning Outcomes:** Mastery in neural network architectures, implementation using Python and Keras, and evaluating algorithm performance.
+- **Industry Collaboration:** Developed with tech giants like Google, YouTube, and Intel, featuring guest lectures.
+- **Practical Experience:** Hands-on labs for real-world Deep Learning application development.
+- **Relevance:** Deep Learning, a pivotal skill, is the core of modern AI and Machine Learning advancements.
+
+### Digital Signal Processing
+- Focus on digital signals: representation, transformation, and manipulation.
+- Types of signals: speech, video, physical measurements, and various data.
+- Core concepts: Sampling, reconstruction, quantisation, and digital filters.
+- Advanced techniques: Fourier analysis, FFT, spectral analysis, and filter design.
+- Modern context: DSP's role in the Deep Learning era.
+  
+### Management for Engineers
+- Introduction to project management tools and concepts.
+- Hands-on experience with project management simulation software and group projects.
+- Topics cover project definition, feasibility, planning, critical path analysis, risk assessment, resource allocation, team dynamics, and various project management models including AGILE.
+- Emphasis on ethics, health and safety, environmental concerns, people management, accounting, and legal concepts.
+- Topics include general legal concepts, engineering contracts, professional ethics, office accounting, conduct of meetings, HR functions, safety management, and fostering creativity in engineering.
+
+### Computer Vision
+- Design and development of computer vision solutions for real-world problems using C++.
+- Deep understanding of visual information processing and interpretation.
+- Application of computer vision in ubiquitous computing and entertainment, with influences from physics, optics, and psychology.
+- Practical hands-on experience, emphasizing the challenges in applying computer vision technology.
+- Topics include image digitisation, camera modelling, binary image processing, video analysis, geometric image transforms, edge and feature processing, and various recognition techniques.
+
+### Research Methods
+- Purpose: Drive industry innovations and yield societal benefits in academia.
+- Module Goal: Equip students for their inaugural engineering research project.
+- Project planning and reporting.
+- Effective communication and professional writing.
+- Scientific documentation and result presentation.
+- Coding practices and job batching.
+- Ethical considerations, security, gender, and R&D insights.
+
+## Semester Two (KTH Stockholm)
+### Machine Learning
+- Focus on enabling computers to learn from past experiences using various algorithms and methods.
+- Covers topics like decision trees, Bayesian learning, support vector machines, and artificial neural networks.
+- Emphasizes understanding key algorithms, principles, and practical applications in machine learning.
+- Aims to equip students to apply machine learning techniques for classification, pattern recognition, regression, and decision-making.
+  
+### Introduction to Computer Graphics and Visualisation
+- Provides basics of visualisation and visual communication across various fields like computer games, medical visualisation, and urban planning.
+- Combines theoretical knowledge with practical lab assignments and introduces current tools in focus areas.
+- Equips students to understand core concepts in computer graphics, interaction programming, and information visualisation.
+- Enables students to explain principles of basic computer graphics algorithms and apply interaction programming principles.
+- Imparts understanding of concepts in information visualisation, scientific visualisation, and image/video processing.
+
+### High Performance Computing
+- Focuses on parallel computer architecture, parallel software, and types of parallelism.
+- Introduces programming of multicore systems using OpenMP and cluster systems with MPI.
+- Provides insights into hardware and software for various platforms.
+- Aims to impart knowledge on theory, hardware, and software methods for parallel computations.
+- Emphasizes programming multicore and cluster architectures and addresses research questions in the field.
+- Equips students to understand parallel architectures, evaluate efficiency, and write parallel programs using OpenMP and MPI.
+  
+### Foundations in Cryptography
+- Explores classic cryptosystems, secure encryption definitions, and information theory foundations.
+- Delves into symmetric encryption algorithms like AES and open key systems like RSA, ElGamal, and Schnorr signatures.
+- Discusses cryptographically secure hash functions (e.g., SHA) and pseudo-random number generators.
+- Links topics to complexity theory.
+- Equips students to understand and discuss core cryptographic concepts, analyze cryptographic systems, and evaluate their reliability.
+- Prepares students to summarize technical articles on cryptography and work with cryptographic protocols and systems development.
+
+# 5th Year
+## Semester One
+### CyberPhysical Systems
+- Understand and design cyber-physical systems (CPS) with a focus on sensory, actuatory, and computational components.
+- Develop specifications, tests, and verify CPS performance.
+- Implement distributed control schemes and apply machine learning techniques for sensing and control.
+- Coordinate diverse CPS teams and evaluate their security and ethical implications.
+- Course delves into the integration of physical components and software, emphasizing autonomy, adaptability, and networked interactions.
+- Explores software and hardware selection for mobile autonomous systems like UAVs and UGVs, combining knowledge from various engineering disciplines.
+- Emphasizes robust, reliable, cooperative systems, ensuring individual agent performance and collective mission success.
+- Highlights the role of machine learning in CPS design and addresses human-CPS interactions, security, safety, and ethics.
+- Discusses the economic and political implications of CPS, including Industry 4.0 and open source vs proprietary challenges.
+
+### Algorithms for Quantum Computing
+- Emergence due to quantum computer hardware advancements.
+- Applications in simulation, optimization, security, and medical fields.
+- Theoretical and practical aspects including estimation, stochastic simulation, optimization, control, and quantum machine learning.
+- Emphasis on theory-application interplay with hands-on coding.
+- Design and application of quantum-specific algorithms.
+- Quantum algebra calculations using Dirac notation and period-finding algorithms.
+- Development and application of Quantum Fourier and Wavelet Transforms.
+- Stochastic simulations using Quantum random walk.
+- Quantum computing algorithms for optimization.
+- Problem-solving in Quantum Machine Learning.
+
+## Semester two (Not completed yet)
+### Real-time Rendering
+- Understand the distinction between fixed function graphics pipelines and shader architectures, including various shaders.
+- Design a shader pipeline and create specific shaders for lighting, shadowing, geometry processing, and post-processing effects.
+- Evaluate different real-time rendering methods and discuss the latest trends in real-time rendering.
+- Course topics include graphics pipeline overview, GPU introduction, shader programming with GLSL, various illumination/surface models, shadowing techniques, global illumination methods, stylised rendering, and voxel rendering.
+
+## Artificial Intelligence 
+- Understand the scope, applications, and limitations of artificial intelligence.
+- Apply search, reasoning, planning, and learning techniques to real-world challenges.
+- Develop AI systems that manage uncertainty and choose suitable AI methods for diverse problems.
+- Collaborate individually and in teams to design AI solutions and effectively communicate these solutions.
+- Course topics encompass search, problem-solving, constraint satisfaction, Markov Decision Process, reasoning with uncertainty, reinforcement learning, intelligent agents, multi-agent systems, and practical applications.
